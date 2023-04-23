@@ -28,7 +28,7 @@
     "mocha": "*",
     "mocha-lcov-reporter": "*",
     "should": "~3.0.0",
-    "supertest": "^2.0.1",
+    "supertest": "^6.3.3",
     "travis-cov": "*"
   },
   "scripts": {
